@@ -1,0 +1,16 @@
+[
+  {
+    "selector": "#help-icon",
+    "group": "home",
+    "position": "left",
+    "headline": "onboarding.home.help-icon.headline",
+    "details": "onboarding.home.help-icon.details"
+  },
+  {
+    "selector": "#main-toolbar",
+    "group": "home2",
+    "position": "bottom",
+    "headline": "onboarding.home.main-toolbar.headline",
+    "details": "onboarding.home.main-toolbar.details"
+  }
+]
