@@ -21,7 +21,7 @@ window.config = {
         me: host + 'api/bridgit/compras/me/',
         token: host + 'oauth/token',
       },
-      auth: 'U2FsdGVkX1+Yaw/VuFODRudrPqK6PwhjpgxEilvUjZGzj7MzfbIgPjKZ5GdxBk8G',
+      auth: 'U2FsdGVkX19t5v/bzFlo1PRZeKo2Y1e7R2ZiTK8/O6KqCfNPoxBOLePUMhqajI29',
     },
   },
   crash: {
