@@ -1,6 +1,6 @@
 let host = '';
 host = 'http://localhost:8080/';
-host = 'https://bridgit-api.civeira.net/';
+// host = 'https://bridgit-api.civeira.net/';
 
 window.config = {
   production: false,
