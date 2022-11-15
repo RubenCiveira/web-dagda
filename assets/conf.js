@@ -1,6 +1,6 @@
 let host = '';
 host = 'http://localhost:8080/';
-// host = 'https://bridgit-api.civeira.net/';
+host = 'https://bridgit-api.civeira.net/';
 
 window.config = {
   production: false,
@@ -21,6 +21,7 @@ window.config = {
         me: host + 'api/bridgit/compras/me/',
         token: host + 'oauth/token',
       },
+      usernamePrefix: 'compras\\',
       auth: 'U2FsdGVkX19t5v/bzFlo1PRZeKo2Y1e7R2ZiTK8/O6KqCfNPoxBOLePUMhqajI29',
     },
   },
