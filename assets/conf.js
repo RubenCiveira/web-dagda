@@ -18,8 +18,9 @@ window.config = {
   identity: {
     main: {
       url: {
-        me: host + 'api/bridgit/compras/me/',
+        me: host + 'api/bridgit/compras/me',
         token: host + 'oauth/token',
+        providers: host + 'oauth/delegated/compras',
       },
       usernamePrefix: 'compras\\',
       auth: 'U2FsdGVkX19t5v/bzFlo1PRZeKo2Y1e7R2ZiTK8/O6KqCfNPoxBOLePUMhqajI29',
